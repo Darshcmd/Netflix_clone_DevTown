@@ -28,6 +28,6 @@ The goal of the bootcamp was to learn and build a frontend project using HTML, C
 Just open the `index.html` file in your browser. That’s it!
 
 
-Feel free to explore and improve it further!
+Feel free to explore and improve it further! <br>
 📜 The certificate for this bootcamp will be attached here once I receive it from the organizers.
 
