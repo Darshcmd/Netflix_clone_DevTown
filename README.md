@@ -30,5 +30,9 @@ Just open the `index.html` file in your browser. That’s it!
 
 Feel free to explore and improve it further! <br><br> 
 **Live Demo**: [Netflix Clone on GitHub Pages](https://darshcmd.github.io/Netflix_clone_DevTown/)
-<br>📜 The certificate for this bootcamp will be attached here once I receive it from the organizers.
+<br>📜 The certificate for this bootcamp are attached below <br>
+![Participation](https://github.com/user-attachments/assets/f6306827-25db-4863-9105-c93465275262)
+![Google](https://github.com/user-attachments/assets/1cedff7d-0b38-4379-8cec-043f2715ada8)
+![Microsoft](https://github.com/user-attachments/assets/39cdb310-476b-473b-b332-04c566766ae0)
+![Appreciation](https://github.com/user-attachments/assets/a3d08c1d-4d9f-49d0-9457-32f6fc588902)
 
